@@ -1,0 +1,20 @@
+git --version
+git status
+git init //initializes empty git repositary
+git config --global user.email"ragiani@gmail.com"
+git config --global user.name"ragiani"
+create 2text docs of version1[index,utility]
+  git status
+  git add .
+  git status
+  git commit -m "Version 1"
+  git log
+git config --global user.email"abhinaya@gmail.com"
+git config --global user.name"abhinaya"
+change 2text docs to version2
+  git status
+  git add .
+  git status
+  git commit -m "Version 2"
+  git log
+  
